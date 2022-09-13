@@ -1,6 +1,6 @@
 import React from "react";
 import SectionTitle from "./SectionTitle";
-import avatar from "../../public/img/cinta.png";
+import avatar from "../../public/img/fardhan.jpg";
 
 function About() {
   return (
